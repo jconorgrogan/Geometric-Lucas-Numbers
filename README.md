@@ -1,5 +1,9 @@
 # Geometric-Lucas-Numbers
-A way to visualize Lucas numbers geometrically 
+The first few Lucas numbers are
+
+2, 1, 3, 4, 7, 11, 18, 29, 47, 76, 123, 199, 322, 521, 843, 1364, 2207, 3571, 5778, 9349
+
+Attached code is a way to visualize Lucas numbers geometrically 
 
 
 ## Geometric Interpretation of Lucas Numbers
